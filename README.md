@@ -1,1 +1,1 @@
-# django-timeseries-db-daily-subscription-counts
+# django-timeseries-db-subscription-tracker
